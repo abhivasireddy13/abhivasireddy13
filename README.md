@@ -96,7 +96,7 @@
 
 - 📫 How to reach me **abhivasireddy13@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/abhivasireddy13](https://github.com/abhivasireddy13)
+- 📄 Know about my experiences https://drive.google.com/file/d/19wbkxD2AjVhEp7j2N9yX2HZvmATZYO0Q/view
 
 - ⚡ Fun fact **I debug more than I code — and I still enjoy it 😄**
 
