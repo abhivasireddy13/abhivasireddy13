@@ -77,7 +77,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhivasireddy13&label=Profile%20views&color=0e75b6&style=flat" alt="bhivasireddy13" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhivasireddy13" alt="bhivasireddy13" /></a> </p>
+   
+𝐀𝐁𝐇𝐈 𝐕𝐀𝐒𝐈𝐑𝐄𝐃𝐃𝐘🚀
+
 
 - 🔭 I’m currently working on **AI-powered predictive analytics & machine learning–based web applications**
 
@@ -101,7 +103,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abhi vasireddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhi vasireddy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhi vasireddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhivasireddy" height="30" width="40" /></a>
 <a href="https://instagram.com/abhi.vasireddy13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi.vasireddy13" height="30" width="40" /></a>
 </p>
 
