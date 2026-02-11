@@ -125,10 +125,10 @@
 <div align="center">
 
 <!-- Animated Social Links -->
-<a href="https://www.linkedin.com/in/abhivasireddy13/">
+<a href="https://www.linkedin.com/in/abhishek-sai-vasireddy//">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:abhivasireddy13@gmail.com">
+<a href="https://meet.google.com/buw-ixpn-jne">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://medium.com/@abhivasireddy13">
