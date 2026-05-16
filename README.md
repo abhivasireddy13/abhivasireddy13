@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=&fontSize=0" width="100%"/>
 
 <!-- Dynamic Typing Animation -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Abhishek+Sai+Vasireddy;AI+%26+ML+Engineer+%7C+Full+Stack+Developer;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Always+Learning+%7C+Always+Building)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=AI+%26+ML+Engineer;Building+Intelligent+Systems;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Turning+Data+into+Decisions)
 
 <!-- Visitor Counter with Style -->
 <img src="https://komarev.com/ghpvc/?username=abhivasireddy13&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
